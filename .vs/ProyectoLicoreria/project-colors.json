@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cefb8dc1-5883-471c-b80e-1474c593047e": {
+      "ProjectGuid": "cefb8dc1-5883-471c-b80e-1474c593047e",
+      "DisplayName": "Licoreria-Acceso de datos",
+      "ColorIndex": 0
+    },
+    "f483efda-d867-4ce0-b835-14a78792abe3": {
+      "ProjectGuid": "f483efda-d867-4ce0-b835-14a78792abe3",
+      "DisplayName": "Licoreria-AccesosdeDatos",
+      "ColorIndex": 1
+    },
+    "d9b70d53-3c13-4d38-9b31-249bbb12df42": {
+      "ProjectGuid": "d9b70d53-3c13-4d38-9b31-249bbb12df42",
+      "DisplayName": "Licoreria-Entidades",
+      "ColorIndex": 2
+    },
+    "be0151a3-29dc-4833-82df-07b315dbf8df": {
+      "ProjectGuid": "be0151a3-29dc-4833-82df-07b315dbf8df",
+      "DisplayName": "Licoreria-Negocio",
+      "ColorIndex": 3
+    },
+    "a2e27039-55b1-41b0-b12e-aa90301aa34b": {
+      "ProjectGuid": "a2e27039-55b1-41b0-b12e-aa90301aa34b",
+      "DisplayName": "FrmLogin",
+      "ColorIndex": 4
+    },
+    "d12bd101-bcf5-41bd-adba-c6618df3294e": {
+      "ProjectGuid": "d12bd101-bcf5-41bd-adba-c6618df3294e",
+      "DisplayName": "Licoreria-Presentacion",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

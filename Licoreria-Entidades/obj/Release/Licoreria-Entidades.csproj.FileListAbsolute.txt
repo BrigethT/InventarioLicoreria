@@ -1,0 +1,6 @@
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-Entidades\bin\Release\Licoreria-Entidades.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-Entidades\bin\Release\Licoreria-Entidades.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-Entidades\obj\Release\Licoreria-Entidades.csproj.AssemblyReference.cache
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-Entidades\obj\Release\Licoreria-Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-Entidades\obj\Release\Licoreria-Entidades.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-Entidades\obj\Release\Licoreria-Entidades.pdb

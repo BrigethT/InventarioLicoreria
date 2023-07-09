@@ -1,0 +1,123 @@
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+D:\5to Semestre\Diseño\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+D:\5to Semestre\Diseño\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+D:\5to Semestre\Diseño\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+D:\5to Semestre\Diseño\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+D:\5to Semestre\Diseño\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+D:\5to Semestre\Diseño\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\Génesis\source\repos\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\Génesis\source\repos\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\Génesis\source\repos\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\Génesis\source\repos\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Génesis\source\repos\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\Génesis\source\repos\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\Génesis\source\repos\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\Génesis\source\repos\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\Génesis\source\repos\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+D:\5to Semestre\Diseño\Pro\ProyectoF\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+D:\5to Semestre\Diseño\Pro\ProyectoF\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+D:\5to Semestre\Diseño\Pro\ProyectoF\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+D:\5to Semestre\Diseño\Pro\ProyectoF\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+D:\5to Semestre\Diseño\Pro\ProyectoF\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+D:\5to Semestre\Diseño\Pro\ProyectoF\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+D:\5to Semestre\Diseño\Pro\ProyectoF\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+D:\5to Semestre\Diseño\Pro\ProyectoF\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+D:\5to Semestre\Diseño\Pro\ProyectoF\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreriaxD\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreriaxD\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreriaxD\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreriaxD\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreriaxD\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreriaxD\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreriaxD\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreriaxD\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\Ultimas versiones\ProyectoLicoreriaxD\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+D:\5to Semestre\Diseño\Pro\Proyecto1\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+D:\5to Semestre\Diseño\Pro\Proyecto1\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+D:\5to Semestre\Diseño\Pro\Proyecto1\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+D:\5to Semestre\Diseño\Pro\Proyecto1\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+D:\5to Semestre\Diseño\Pro\Proyecto1\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+D:\5to Semestre\Diseño\Pro\Proyecto1\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+D:\5to Semestre\Diseño\Pro\Proyecto1\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+D:\5to Semestre\Diseño\Pro\Proyecto1\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+D:\5to Semestre\Diseño\Pro\Proyecto1\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\FINAL\ProyectoLicoreriaFINALCREO\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\FINAL\ProyectoLicoreriaFINALCREO\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\FINAL\ProyectoLicoreriaFINALCREO\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\FINAL\ProyectoLicoreriaFINALCREO\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\FINAL\ProyectoLicoreriaFINALCREO\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\FINAL\ProyectoLicoreriaFINALCREO\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\FINAL\ProyectoLicoreriaFINALCREO\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\FINAL\ProyectoLicoreriaFINALCREO\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\FINAL\ProyectoLicoreriaFINALCREO\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\ana.zambrano\Desktop\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\ana.zambrano\Desktop\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\ana.zambrano\Desktop\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\ana.zambrano\Desktop\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\ana.zambrano\Desktop\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\ana.zambrano\Desktop\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\ana.zambrano\Desktop\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\ana.zambrano\Desktop\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\ana.zambrano\Desktop\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\andre\Documents\temp\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\andre\Documents\temp\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\andre\Documents\temp\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\andre\Documents\temp\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\andre\Documents\temp\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\andre\Documents\temp\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\andre\Documents\temp\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\andre\Documents\temp\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\andre\Documents\temp\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-AccesosdeDatos.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Debug\Licoreria-AccesosdeDatos.pdb

@@ -1,0 +1,9 @@
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Release\Licoreria-AccesosdeDatos.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Release\Licoreria-AccesosdeDatos.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Release\Licoreria-Entidades.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-AccesosdeDatos\bin\Release\Licoreria-Entidades.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Release\Licoreria-AccesosdeDatos.csproj.AssemblyReference.cache
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Release\Licoreria-AccesosdeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Release\Licoreria-AccesosdeDatos.csproj.CopyComplete
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Release\Licoreria-AccesosdeDatos.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\Escritorio\ProyectoLicoreria\Licoreria-AccesosdeDatos\obj\Release\Licoreria-AccesosdeDatos.pdb

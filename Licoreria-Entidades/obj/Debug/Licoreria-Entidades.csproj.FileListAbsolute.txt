@@ -1,0 +1,24 @@
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-Entidades\bin\Debug\Licoreria-Entidades.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-Entidades\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-Entidades\bin\Debug\Licoreria-Entidades.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-Entidades\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.csproj.AssemblyReference.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.dll
+C:\Users\nicol\Downloads\PROYECTO LICORERIA LAURA\ProyectoLicoreriaVERSIONENOJADA\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.pdb
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-Entidades\bin\Debug\Licoreria-Entidades.dll
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-Entidades\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.csproj.AssemblyReference.cache
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.csproj.CoreCompileInputs.cache
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.dll
+C:\Users\johnn\Desktop\Licoreria 13\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-Entidades\bin\Debug\Licoreria-Entidades.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-Entidades\bin\Debug\Licoreria-Entidades.pdb
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.csproj.AssemblyReference.cache
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.dll
+C:\Users\Elsujeto\OneDrive - Escuela Politécnica Nacional\EPN\SEMESTRE_2022-B\DISEÑO Y PROGRAMACION DE SOFTWARE\ProyectoLicoreria\Licoreria-Entidades\obj\Debug\Licoreria-Entidades.pdb
